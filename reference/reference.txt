@@ -15,3 +15,6 @@ Archivos aula 4
 
 Archivos aula 5
     https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-aula5/1980-aula5.zip
+
+Proyecto final
+    https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-ProyectoFinal/1980-ProyectoFinal.zip
