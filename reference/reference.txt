@@ -4,3 +4,6 @@ Original repository
 Archivos aula 1
     https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-aula1/1980-aula1.zip
 
+Archivos aula 2
+    https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-aula2/1980-aula2.zip
+
