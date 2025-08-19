@@ -7,3 +7,6 @@ Archivos aula 1
 Archivos aula 2
     https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-aula2/1980-aula2.zip
 
+Archivos aula 3
+    https://github.com/alura-es-cursos/1980-Pandas_IO/raw/1980-aula3/1980-aula3.zip
+
